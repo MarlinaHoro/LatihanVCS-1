@@ -55,3 +55,14 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 
 13. Langkah selanjutnya mengisi repository nya
 
+![11](https://user-images.githubusercontent.com/69299625/96347181-36936680-10ca-11eb-92bf-901bea2f23c3.png)
+
+**isi repository nya dengan nama “latihan1” ,untuk penamaan bisa di rubah sesui keperluan.**
+**untuk description / pesan buat lah sejelas mungkin.**
+**pilih lah public**
+**lalu create repository**
+
+14. Maka akan muncul seperti gambar berikut
+
+
+
