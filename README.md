@@ -43,3 +43,11 @@ jika sudah seperti ini artinya folder sudah menjadi repo.
 ![8](https://user-images.githubusercontent.com/69299625/96346638-1615dd00-10c7-11eb-92f4-613003760dfc.png)
 
 10. Langkah selanjutnya commit file tersebut (git commit -m “pesan”)
+
+![9](https://user-images.githubusercontent.com/69299625/96347040-3e9ed680-10c9-11eb-8cbc-3f550ebf960a.png)
+
+jika tidak ada masalah maka akan seperti gambar di atas.
+
+11. langkah selanjutnya buat lah akun di github (http://github.com)
+12. Jika sudah memiliki akun buat lah repository baru new repository
+
