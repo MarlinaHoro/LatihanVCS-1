@@ -34,5 +34,9 @@ jika sudah seperti ini artinya folder sudah menjadi repo.
 
 ![6](https://user-images.githubusercontent.com/69299625/96346295-1b722800-10c5-11eb-914c-39dcbd13fd89.png)
 
-8. Cara mengecek file tersebut ketik `git status` maka akan muncul sebagai berikut.
+8. di lanjutkan dengan mengetik `git add README.md`
+
+![7](https://user-images.githubusercontent.com/69299625/96346478-3729fe00-10c6-11eb-9316-15cf3cf837d1.png)
+
+9. Cara mengecek file tersebut ketik `git status` maka akan muncul sebagai berikut.
 
