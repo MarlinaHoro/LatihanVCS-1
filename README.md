@@ -30,5 +30,9 @@ jika sudah seperti ini artinya folder sudah menjadi repo.
 
 ![5](https://user-images.githubusercontent.com/69299625/96345070-9129c400-10c4-11eb-8ca7-c5c9cf4d97df.png)
 
-7. Cara mengecek file tersebut ketik `git status` maka akan muncul sebagai berikut
+7. Sekarang kita ketik perintah `ls -l` dan penampilan akan seperti ini
+
+![6](https://user-images.githubusercontent.com/69299625/96346295-1b722800-10c5-11eb-914c-39dcbd13fd89.png)
+
+8. Cara mengecek file tersebut ketik `git status` maka akan muncul sebagai berikut.
 
