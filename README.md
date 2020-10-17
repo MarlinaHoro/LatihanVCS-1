@@ -72,6 +72,10 @@ copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptot.
 
 ![13](https://user-images.githubusercontent.com/69299625/96355079-ecc97100-1107-11eb-9976-b86fefdeca2e.png)
 
-15. Langkah selanjutnya ketik `git push -u origin master`
+15. Langkah selanjutnya ketik `git push -u origin master` lalu masukan username GITHUB dan password 
+
+![15](https://user-images.githubusercontent.com/69299625/96355122-65c8c880-1108-11eb-9e2c-a487ef432b4b.png)
+
+16. Bila tidak ada kesalahan akan seperti gambar di bawah ini
 
 
