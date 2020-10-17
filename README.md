@@ -69,3 +69,9 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptot.
 
 15. Lalu buka lah **terminal** Cara menghubungkan nya dengan mengetik git remote add origin <link> 
+
+![13](https://user-images.githubusercontent.com/69299625/96355079-ecc97100-1107-11eb-9976-b86fefdeca2e.png)
+
+15. Langkah selanjutnya ketik `git push -u origin master`
+
+
