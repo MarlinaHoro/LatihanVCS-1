@@ -40,3 +40,4 @@ jika sudah seperti ini artinya folder sudah menjadi repo.
 
 9. Cara mengecek file tersebut ketik `git status` maka akan muncul sebagai berikut.
 
+![8](https://user-images.githubusercontent.com/69299625/96346638-1615dd00-10c7-11eb-92f4-613003760dfc.png)
