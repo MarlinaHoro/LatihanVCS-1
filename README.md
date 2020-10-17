@@ -12,3 +12,8 @@
 
 3. Kemudian buatlah folder dengan mengetik di terminal dengan perintah `mkdir latihan1`
 
+![2](https://user-images.githubusercontent.com/69299625/96339747-a8ff4900-10c0-11eb-92f3-00339d5d1d09.png)
+
+dan nantinya di folder **latihan1** dan didalam nya akan ada folder dengan tulisan **latihan1**
+
+4.  Langkah selanjut nya masuk kedalam folder **latihan1** dengan mengetik `cd latihan1`
