@@ -49,5 +49,9 @@ jika sudah seperti ini artinya folder sudah menjadi repo.
 jika tidak ada masalah maka akan seperti gambar di atas.
 
 11. langkah selanjutnya buat lah akun di github (http://github.com)
-12. Jika sudah memiliki akun buat lah repository baru new repository
+12. Jika sudah memiliki akun buat lah repository baru **New Repository**
+
+![10](https://user-images.githubusercontent.com/69299625/96347130-b40aa700-10c9-11eb-974f-2a7331b922c2.png)
+
+13. Langkah selanjutnya mengisi repository nya
 
