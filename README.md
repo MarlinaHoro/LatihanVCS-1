@@ -26,4 +26,9 @@ dan nantinya di folder **latihan1** dan didalam nya akan ada folder baru dengan 
 
 jika sudah seperti ini artinya folder sudah menjadi repo.
 
-6. Setelah itu buat file README.md dengan mengertik `echo latihan 1 >> README.md`
+6. Setelah itu buat file README.md dengan mengetik `echo latihan 1 >> README.md`
+
+![5](https://user-images.githubusercontent.com/69299625/96345070-9129c400-10c4-11eb-8ca7-c5c9cf4d97df.png)
+
+7. Cara mengecek file tersebut ketik `git status` maka akan muncul sebagai berikut
+
