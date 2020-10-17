@@ -42,7 +42,7 @@ jika sudah seperti ini artinya folder sudah menjadi repo.
 
 ![8](https://user-images.githubusercontent.com/69299625/96346638-1615dd00-10c7-11eb-92f4-613003760dfc.png)
 
-10. Langkah selanjutnya commit file tersebut (git commit -m “pesan”)
+10. Langkah selanjutnya commit file tersebut `git commit -m “pesan”`
 
 ![9](https://user-images.githubusercontent.com/69299625/96347040-3e9ed680-10c9-11eb-8cbc-3f550ebf960a.png)
 
@@ -64,5 +64,8 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 
 14. Maka akan muncul seperti gambar berikut
 
+![12](https://user-images.githubusercontent.com/69299625/96354983-00280c80-1107-11eb-8527-a6ca5f944c44.png)
 
+copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptot.
 
+15. Lalu buka lah **terminal** Cara menghubungkan nya dengan mengetik git remote add origin <link> 
