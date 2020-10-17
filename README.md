@@ -17,3 +17,7 @@
 dan nantinya di folder **latihan1** dan didalam nya akan ada folder dengan tulisan **latihan1**
 
 4.  Langkah selanjut nya masuk kedalam folder **latihan1** dengan mengetik `cd latihan1`
+
+![3](https://user-images.githubusercontent.com/69299625/96339878-7bff6600-10c1-11eb-8c40-87aa8b7d17b4.png)
+
+5. Dan buatlah Folder tersebut menjadi repo (repository) dengan cara **git init** jika benar akan seperti gambar di bawah ini:
