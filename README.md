@@ -58,8 +58,11 @@ jika tidak ada masalah maka akan seperti gambar di atas.
 ![11](https://user-images.githubusercontent.com/69299625/96347181-36936680-10ca-11eb-92bf-901bea2f23c3.png)
 
 **isi repository nya dengan nama “latihan1” ,untuk penamaan bisa di rubah sesui keperluan.**
+
 **untuk description / pesan buat lah sejelas mungkin.**
+
 **pilih lah public**
+
 **lalu create repository**
 
 14. Maka akan muncul seperti gambar berikut
@@ -78,4 +81,18 @@ copy link tersebut untuk menghubungkan dengan akun git yang ada di pc/ laptot.
 
 16. Bila tidak ada kesalahan akan seperti gambar di bawah ini
 
+![16](https://user-images.githubusercontent.com/69299625/96355166-dc65c600-1108-11eb-8aa2-7c5a0bcf1a9d.png)
 
+`mkdir <nama file>` untuk membuat file baru
+ 
+*`git init` untuk membuat depository local
+
+`git add` untuk menambah kan file baru
+
+`git status` untuk mengecek apakah ada perubahan di dalam file
+
+`git commit` untuk menyimpan perubahan kedalam database git.
+
+`git remote` untuk menghubungka file ke github
+
+`git push` untuk meng upload file ke github
